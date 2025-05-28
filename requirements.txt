@@ -40,7 +40,7 @@ torch==0.4.0
 torchfile==0.1.0
 -e git+https://github.com/pytorch/tnt.git@33677fd4ccdadac4f5e272370a4afc24eaa4f55e#egg=torchnet
 torchvision==0.2.0
-tornado==5.0.1
+tornado==6.5.1
 tqdm==4.19.5
 traitlets==4.3.2
 ujson==1.35
